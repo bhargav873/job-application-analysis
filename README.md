@@ -27,10 +27,10 @@ The project utilizes a snapshot execution model across four distinct states to t
 
 ## Process
 
-1. Imported the cleaned dataset into Excel for analysis and reporting.
-2. Analyzed recruitment and application data using pivot tables and KPI-based metrics.
-3. Designed interactive dashboards to visualize application trends, interview progress, and hiring outcomes.
-4. Applied data visualization techniques to generate actionable insights and improve recruitment tracking efficiency.
+- Imported the cleaned dataset into Excel for analysis and reporting.
+-  Analyzed recruitment and application data using pivot tables and KPI-based metrics.
+- Designed interactive dashboards to visualize application trends, interview progress, and hiring outcomes.
+- Applied data visualization techniques to generate actionable insights and improve recruitment tracking efficiency.
 
 
 ## 📈 Key Insights & Dashboard Preview
