@@ -38,3 +38,11 @@ The project utilizes a snapshot execution model across four distinct states to t
 <img width="900" height="581" alt="Screenshot 2026-06-07 085643" src="https://github.com/user-attachments/assets/6af9e362-89e5-464d-bf71-2a1b18307805" />
 
 
+
+
+## 🚀 How to View
+1. Clone this repository to your local machine.
+2. Ensure you have **MS Excelp** installed.
+3. Open the `Job Application Analysis.xlsx` file to interact with the dashboards.
+
+
